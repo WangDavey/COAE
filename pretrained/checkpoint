@@ -1,0 +1,2 @@
+model_checkpoint_path: "dcn-mnist.ckpt"
+all_model_checkpoint_paths: "dcn-mnist.ckpt"
