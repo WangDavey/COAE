@@ -15,4 +15,9 @@ To run COAE, you'll need Python 3.x and the following python packages:
 
 Usage
 -
-```python3 COAE.py```
+All the datasets are uploaded in the Data. Specially, ROAE.py is for pre-train. In this project, you can directly run COAE without pre-train stage because well-trained parameters are provided.
+```python3 ***.py```
+
+Contact
+-
+wangwei0108@cqu.edu.cn
