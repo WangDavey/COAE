@@ -1,4 +1,4 @@
-# CROAE
+# COAE
 Clustering with Orthogonal AutoEncoder
 
-Tensorflow-based implementation of CROAE
+Tensorflow-based implementation of COAE
